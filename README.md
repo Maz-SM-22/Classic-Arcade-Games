@@ -7,9 +7,9 @@ Classic arcade games include:
 <li> Snake </li>
 <li> Pong </li>
 <li> and also two versions of a quiz game: one with an interface and a more basic one without </li>
-
+<br />
 Also included in this repo are: 
 <li> A Sporcle-style USA states game </li>
 <li> A Kanye West quote generator </li>
-
+<br />
 Enjoy! 
